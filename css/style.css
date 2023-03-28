@@ -140,7 +140,7 @@ nav {
 .trendy-section__img-container {
   flex: 1;
   min-height: 630px;
-  background-image: url(assets/icons/featureImageBg1.svg);
+  background-image: url(/assets/img/featureImageBg1.svg);
   background-size: cover;
   background-position: center center;
 }
@@ -168,7 +168,7 @@ nav {
 .unique-section__img-container {
   flex: 1;
   min-height: 630px;
-  background-image: url(assets/icons/featureImageBg2.png);
+  background-image: url(/assets/img/featureImageBg2.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
